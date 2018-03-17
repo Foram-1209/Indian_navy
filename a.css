@@ -1,0 +1,40 @@
+.bg
+{
+	background-image:url("../images/152.jpg");
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+}
+.bg1
+{
+	background-color:white;
+}
+.bg2
+{
+	background-color:#add8e6;
+}
+.abc
+{
+	margin-top:50px;
+	margin-bottom:20px;
+	margin-left:300px;
+	margin-right:300px;
+}
+.pqr
+{
+	padding-top:1cm;
+	padding-bottom:1cm;
+	padding-right:1cm;
+	padding-left:1cm;
+}
+.f1
+{
+	font:70px cooper;
+}
+.f2
+{
+	font:20px impact;
+}
+.f3
+{
+	font:30px elephant;
+}
